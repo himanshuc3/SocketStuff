@@ -3,7 +3,8 @@ Starting out with socket was real fun. Made some client-server interactions(from
 
 
 
-Added 2 main files:
+## Added 2 main files:
 
-- For telling the IP address of local host or other mentioned valid domain.
-- Creating a local server and interacting from the same local machine.
+ - For telling the IP address of local host or other mentioned valid domain.
+ - Creating a local server and interacting from the same local machine.
+
